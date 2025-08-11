@@ -4,12 +4,7 @@ A "loccar" é uma solução por meio de software que visa a produtividade e otim
 
 ## Alunos integrantes da equipe
 
-
-* Eduardo Assumpcao Spinelli
-* Henrique Azevedo Flores
-* Pedro Lucca Feitosa Oliveira
 * Rael Kiluanji de Jesus Cassimiro
-* Breno de Oliveira Ribeiro
 
 
 ## Professores responsáveis
