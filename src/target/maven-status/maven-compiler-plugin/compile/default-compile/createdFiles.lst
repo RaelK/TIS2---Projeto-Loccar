@@ -1,0 +1,7 @@
+com\loccar\dto\ClienteCompletoDTO.class
+com\loccar\controllers\ClienteController.class
+com\loccar\LoccarApplication.class
+com\loccar\services\ClienteService.class
+com\loccar\HelloController.class
+com\loccar\dto\ClienteDTO.class
+com\loccar\models\Cliente.class
