@@ -1,0 +1,29 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Loccar
+authors:
+  - family-names: Oliveira Ribeiro
+    given-names: Breno 
+  - family-names: Assumpcao Spinelli
+    given-names: Eduardo 
+  - family-names: Azevedo Flores
+    given-names: Henrique
+  - family-names: Feitosa Oliveira
+    given-names: Pedro Lucca
+  - family-names: Jesus Cassimiro
+    given-names: Rael Kiluanji
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Gomes Amaral
+    given-names: Cleia Marcia
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ribeiro de Souza
+    given-names: Joana Gabriela
+keywords:
+  - vehicle rental
+  - rental system
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-ti2-1381100-loccar.git
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
